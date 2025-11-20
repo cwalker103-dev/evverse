@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "787698654160",
+    "project_id": "evverse-33d02",
+    "storage_bucket": "evverse-33d02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787698654160:android:2a11103f122ea0fb7d77d5",
+        "android_client_info": {
+          "package_name": "com.example.evverse_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787698654160-8egeup6ob5tqgp7ooki2gsmkj5e8lk20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evverse_app",
+            "certificate_hash": "9e7c3b19b74ff2b93302530b89936bd4807de3b9"
+          }
+        },
+        {
+          "client_id": "787698654160-v7fittas5k3mmtfnl1886g118o6h3nsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXiffWcNoWxGpUC8KFVKT-NhlCWk38Q70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787698654160-v7fittas5k3mmtfnl1886g118o6h3nsf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787698654160-349hpd547thdj02fbretgldbhk1gpb22.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evverseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
